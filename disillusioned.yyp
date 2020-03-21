@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "f5d073b6-c81d-44e9-a047-0beab9caf6dc",
+            "Value": {
+                "id": "3d89d965-f932-4880-b4db-050151aa3c20",
+                "resourcePath": "sprites\\bitchnigga\\bitchnigga.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fd48ea06-4686-4327-8d5a-26ef3de07588",
             "Value": {
                 "id": "9cba169e-b6b6-4401-ac4e-91753ef521b1",
